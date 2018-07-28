@@ -1,2 +1,2 @@
 # Bacteriophages-as-zooid-combat-mechanisms
-Bacteriophages are reusable mechanical systems created by zooids for injection of weaponized enzymes into toxic cells. Appearance of these mechanical devices within our bodies shows intelligent design and engineering of both advanced mechanical structures and advanced weaponized enzymes.
+Bacteriophages are reusable mechanical systems created by zooids for injection of weaponized enzymes into toxic cells. Appearance of these mechanical devices within our bodies shows intelligent design and engineering of both advanced mechanical structures and advanced weaponized enzymes. While these mechanical systems are operated by zooids within the body, their structure is a mechanical system which is developed by hemoglobin.
