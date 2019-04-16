@@ -13,3 +13,5 @@ https://github.com/CoryAndrewHofstad/Public-Chemistry-Reference-Database
 Using the Public Chemistry Reference Database, bacteriophage elemental makeup can be determined in order to experiment with or to replicate bacteriophages for open study.
 
 Using potassium as a reference, around 373,473 atoms would be required to construct the mechanical framwork of a bacteriophage.
+
+Published by Cory Andrew Hofstad
